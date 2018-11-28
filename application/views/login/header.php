@@ -16,7 +16,20 @@
   <link href="<?= base_url(); ?>assets/vendor/datatables/dataTables.bootstrap4.css" rel="stylesheet">
   <!-- Custom styles for this template-->
   <link href="<?= base_url(); ?>assets/css/sb-admin.css" rel="stylesheet">
+    
+    <style>
+html,body,h1,h2,h3,h4,h5 {font-family: "Open Sans", sans-serif}a{text-decoration: none;}
+  body {
+       
+        
+        background-image: url("../../assets/img/nature.jpg");
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        
+    }
+</style>
 </head>
 
 
-<body class="bg-dark">
+<body >

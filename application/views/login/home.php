@@ -32,7 +32,7 @@
             <label for="exampleInputPassword1">Senha</label>
             <input class="form-control" id="exampleInputPassword1" type="password" placeholder="Password" name="senha">
           </div>
-          <input type="submit" name="entrar" class="btn btn-primary btn-block" value="Entrar">
+          <input type="submit" name="entrar" class="btn btn-secondary btn-block" value="Entrar">
         </form>
         <div class="text-center">
           <a class="d-block small mt-3" href="<?= base_url(); ?>principal/cadastro">Cadastrar</a>
